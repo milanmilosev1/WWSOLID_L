@@ -1,0 +1,15 @@
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\bin\Debug\net8.0\WWSOLID_L.exe
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\bin\Debug\net8.0\WWSOLID_L.deps.json
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\bin\Debug\net8.0\WWSOLID_L.runtimeconfig.json
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\bin\Debug\net8.0\WWSOLID_L.dll
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\bin\Debug\net8.0\WWSOLID_L.pdb
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.AssemblyInfoInputs.cache
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.AssemblyInfo.cs
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.csproj.CoreCompileInputs.cache
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.sourcelink.json
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.dll
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\refint\WWSOLID_L.dll
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.pdb
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\WWSOLID_L.genruntimeconfig.cache
+C:\Users\MilanMilošev\source\repos\WWSOLID_L\WWSOLID_L\obj\Debug\net8.0\ref\WWSOLID_L.dll

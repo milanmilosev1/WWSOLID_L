@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MilanMilo\u0161ev\\source\\repos\\WWSOLID_L\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48819C5-7BB9-4FBD-BF0B-17A537265C23}|WWSOLID_L\\WWSOLID_L.csproj|c:\\users\\milanmilo\u0161ev\\source\\repos\\wwsolid_l\\wwsolid_l\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48819C5-7BB9-4FBD-BF0B-17A537265C23}|WWSOLID_L\\WWSOLID_L.csproj|solutionrelative:wwsolid_l\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48819C5-7BB9-4FBD-BF0B-17A537265C23}|WWSOLID_L\\WWSOLID_L.csproj|c:\\users\\milanmilo\u0161ev\\source\\repos\\wwsolid_l\\wwsolid_l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48819C5-7BB9-4FBD-BF0B-17A537265C23}|WWSOLID_L\\WWSOLID_L.csproj|solutionrelative:wwsolid_l\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\MilanMilo\u0161ev\\source\\repos\\WWSOLID_L\\WWSOLID_L\\Order.cs",
+              "RelativeDocumentMoniker": "WWSOLID_L\\Order.cs",
+              "ToolTip": "C:\\Users\\MilanMilo\u0161ev\\source\\repos\\WWSOLID_L\\WWSOLID_L\\Order.cs",
+              "RelativeToolTip": "WWSOLID_L\\Order.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:09:25.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MilanMilo\u0161ev\\source\\repos\\WWSOLID_L\\WWSOLID_L\\Program.cs",
+              "RelativeDocumentMoniker": "WWSOLID_L\\Program.cs",
+              "ToolTip": "C:\\Users\\MilanMilo\u0161ev\\source\\repos\\WWSOLID_L\\WWSOLID_L\\Program.cs",
+              "RelativeToolTip": "WWSOLID_L\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:02:24.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
