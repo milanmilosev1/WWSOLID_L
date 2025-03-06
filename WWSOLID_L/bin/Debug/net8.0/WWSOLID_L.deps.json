@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WWSOLID_L/1.0.0": {
+        "runtime": {
+          "WWSOLID_L.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WWSOLID_L/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
