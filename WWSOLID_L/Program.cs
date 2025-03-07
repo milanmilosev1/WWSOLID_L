@@ -1,4 +1,5 @@
-﻿using WWSOLID_L;
+﻿using WWSOLID_L.Models;
+using WWSOLID_L.Managers;
 
 List<ICoffee> coffees = new List<ICoffee>();
 
