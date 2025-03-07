@@ -28,5 +28,11 @@ namespace WWSOLID_L
             NoTopping
         }
 
+        public enum ServiceName
+        {
+            InHouse,
+            CouponCode,
+            TakeAway
+        }
     }
 }
