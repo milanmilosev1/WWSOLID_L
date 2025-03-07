@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WWSOLID_L")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64b7e9bc834fc191f8468b8371342c4aa7bf1862")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ebce6d2abfde26a772b11ce1e6ff006d32b1721")]
 [assembly: System.Reflection.AssemblyProductAttribute("WWSOLID_L")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WWSOLID_L")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
